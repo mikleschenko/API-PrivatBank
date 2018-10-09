@@ -1,2 +1,2 @@
 # API-PrivatBank, получение текущих курсов валют
-https://mikleschenko.github.io/API-PrivatBank/Index.html
+https://mikleschenko.github.io/API-PrivatBank/index.html
