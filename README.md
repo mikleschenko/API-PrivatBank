@@ -1,1 +1,2 @@
-# API-PrivatBank
+# API-PrivatBank, получение текущих курсов валют
+
